@@ -1,6 +1,6 @@
 ### Hey There, I'm Ryan 👋
 
-
+I'm currently in college, doing my best to keep up with the ever moving flow of cybersecurity.
 
 
 
