@@ -1,8 +1,8 @@
 ### Hey There, I'm Ryan 👋
 
-I'm currently in college, doing my best to keep up with the ever moving flow of cybersecurity.
+I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
-My most recent project is Hackbox, a tool I created for fast attacks, defense, and recon.
+My most recent project is [Hackbox](https://github.com/ryanq47/HackBox), a tool I created for fast attacks, defense, and recon.
 
 My website: [Ryanq47 Site](https://ryanq47.github.io/)
 
