@@ -4,7 +4,7 @@ I'm currently in college, doing my best to keep up with the ever changing world 
 
 My most recent project is [Hackbox](https://github.com/ryanq47/HackBox), a tool I created for fast attacks, defense, and recon.
 
-My website: [Under Construction :(](https://ryanq47.github.io/)
+My website: [Currently being developed by me](https://ryanq47.github.io/)
 
 
 
