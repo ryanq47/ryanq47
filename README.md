@@ -2,11 +2,11 @@
 
 I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
-My most recent project is [Hackbox](https://github.com/ryanq47/HackBoxLinux), a tool I created for fast attacks, defense, and recon. (PS, the linux version is miles ahead of the Windows one)
+My most recent project is [Hackbox](https://github.com/ryanq47/HackBoxLinux), a tool I created for fast attacks, defense, and recon. (
 
 My website: [Currently being developed by me](https://ryanq47.github.io/)
 
-
+My Favorite Dad Joke: "It takes guts to be an organ donor"
 
 --------------------------------------------------------------
 
