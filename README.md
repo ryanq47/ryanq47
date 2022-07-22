@@ -2,7 +2,7 @@
 
 I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
-My most recent project is [Hackbox](https://github.com/ryanq47/HackBoxLinux), a tool I created for fast attacks, defense, and recon. 
+My most recent project is [WEBFLINGER](https://github.com/ryanq47/WEBFLINGER), a tool I created for basic direcotry bruteforcing, and maybe some fuzzing. 
 
 My website: [Currently being developed by me](https://ryanq47.github.io/)
 
