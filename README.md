@@ -2,7 +2,7 @@
 
 I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
-My most recent project is [WEBFLINGER](https://github.com/ryanq47/WEBFLINGER), a tool I created for basic directory bruteforcing, and maybe some fuzzing. 
+My most recent project is [PASS_CRACK]https://github.com/ryanq47/PASSCRACK), a very simple password cracker. 
 
 My website: [Currently being developed by me](https://ryanq47.github.io/)
 
