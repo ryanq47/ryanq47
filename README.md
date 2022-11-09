@@ -2,7 +2,7 @@
 
 I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
-My most recent project is [logec](https://github.com/ryanq47/logec, a CLI based SIEM 
+My most recent project is [logec](https://github.com/ryanq47/logec), a CLI based SIEM 
 
 My website: [Currently being developed by me](https://ryanq47.github.io/)
 
