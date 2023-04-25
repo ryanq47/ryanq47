@@ -2,7 +2,7 @@
 
 I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
-My most recent project is [logec-suite](https://github.com/ryanq47/logec), a C2 Suite (with some inspiration from Cobalt Strike)
+My most recent project is [logec-suite](https://github.com/ryanq47/logec-suite), a C2 Suite (with some inspiration from Cobalt Strike)
 
 My website: [Currently being developed by me](https://ryanq47.github.io/)
 
