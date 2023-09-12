@@ -2,7 +2,7 @@
 
 I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
-My main focus is [WhisperNet](https://github.com/ryanq47/logec-suite), a C2 Suite (with some inspiration from Cobalt Strike). It's a continual work in progress, please don't judge too hard :)
+My main focus is [WhisperNet](https://github.com/ryanq47/logec-suite), a C2 Suite (with some inspiration from Cobalt Strike). It's a continual work in progress, so check back in frequently for updates!
 
 My website: [Currently being developed by me](https://ryanq47.github.io/)
 
