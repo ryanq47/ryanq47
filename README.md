@@ -6,6 +6,8 @@ My main focus is [WhisperNet](https://github.com/ryanq47/logec-suite), a C2 Suit
 
 My website: [Currently being developed by me](https://ryanq47.github.io/)
 
+My Resume: [Here](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_Resume.pdf)
+
 My Favorite Dad Joke: "It takes guts to be an organ donor"
 
 --------------------------------------------------------------
