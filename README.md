@@ -3,7 +3,7 @@
 I'm currently in college, doing my best to keep up with the ever changing world of cybersecurity.
 
 <!--My main focus is [WhisperNet](https://github.com/ryanq47/WhisperNet-Offensive), a C2 Framework. It's a continual work in progress, so check back in frequently for updates!-->
-I'm currently working on a few projects, but [my CobaltStrike protocol extension](https://github.com/ryanq47/CS-EXTC2-ICMP) is one I'd like to highlight
+I'm currently working on a few projects, but [my CobaltStrike ICMP protocol extension](https://github.com/ryanq47/CS-EXTC2-ICMP) is one I'd like to highlight
 
 My [blog](https://ryanq47.github.io/)
 
