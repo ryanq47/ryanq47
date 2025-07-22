@@ -7,7 +7,7 @@ I'm currently working on a few projects, but [my CobaltStrike ICMP protocol exte
 
 My [blog](https://ryanq47.github.io/)
 
-My [Resume](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_Resume.pdf)
+My [Resume](https://github.com/ryanq47/resume/blob/main/Ryan_Kleffman_Resume.pdf)
 
 My Favorite Dad Joke: "It takes guts to be an organ donor"
 
