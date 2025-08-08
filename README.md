@@ -5,6 +5,7 @@ I'm currently focused on building tools in the offensive security space, with an
 One of my recent projects is a [CobaltStrike ICMP Protocol Extension](https://github.com/ryanq47/CS-EXTC2-ICMP), which allows for External C2 over ICMP — designed for lightweight, low-profile communication in red team environments. It's still evolving, and I'm actively working on improvements.
 
 📘 Check out my [blog](https://ryanq47.github.io/) for write-ups and project updates
+
 📄 View my [resume](https://github.com/ryanq47/resume/blob/main/Ryan_Kleffman_Resume.pdf)
 
 > **Favorite dad joke**: *"It takes guts to be an organ donor."*
