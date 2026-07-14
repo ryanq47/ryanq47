@@ -3,7 +3,7 @@
 I like doing weird shit related to offensive tooling. 
 
 My latest projects are:
--  [LongHaulC2](https://github.com/LongHaulc2): My C2 Suite featuring SplitC2, and Mimicry Protocol Imitation
+-  [LongHaulC2](https://github.com/LongHaulc2): My C2 Suite featuring SplitC2 (GET/POST over split channels), and Mimicry Protocol Imitation (Run C2 over any protocol in minutes)
 -  [CobaltStrike ICMP Protocol Extension](https://github.com/ryanq47/CS-EXTC2-ICMP), which allows for External C2 over ICMP
 -  [CobaltStrike NTP Protocol Extension](https://github.com/ryanq47/CS-EXTC2-NTP), which does the same, but over NTP.
 
