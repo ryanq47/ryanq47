@@ -2,7 +2,7 @@
 
 I'm currently focused on building tools in the offensive security space, with an emphasis on stealth, evasion, and C2 communication techniques.
 
-my latest project is [LongHaulC2](https://github.com/LongHaulc2), as well as a [CobaltStrike ICMP Protocol Extension](https://github.com/ryanq47/CS-EXTC2-ICMP), which allows for External C2 over ICMP, and a [CobaltStrike NTP Protocol Extension](https://github.com/ryanq47/CS-EXTC2-NTP), which does the same, but over NTP.
+My latest project is [LongHaulC2](https://github.com/LongHaulc2), as well as a [CobaltStrike ICMP Protocol Extension](https://github.com/ryanq47/CS-EXTC2-ICMP), which allows for External C2 over ICMP, and a [CobaltStrike NTP Protocol Extension](https://github.com/ryanq47/CS-EXTC2-NTP), which does the same, but over NTP.
 
 📘 Check out my [blog](https://ryanq47.github.io/) for write-ups and project updates
 
